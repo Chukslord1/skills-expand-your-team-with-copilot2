@@ -166,13 +166,13 @@ initial_activities = {
     },
     "Manga Club": {
         "description": "Dive into epic adventures, heartfelt friendships, and thrilling battles! Discover captivating worlds through Japanese manga - from shonen action to slice-of-life stories. Join fellow fans to discuss your favorite series and discover hidden gems!",
-        "schedule": "Tuesdays, 7:00 PM - 8:30 PM",
+        "schedule": "Tuesdays, 5:00 PM - 6:30 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:30"
+            "start_time": "17:00",
+            "end_time": "18:30"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
